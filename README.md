@@ -1,2 +1,4 @@
-# Desafio_Git_GitHub_Primeiro_Repositorio
-Repositório do desafio da DIO
+# Primeiro Repositório Git/GitHub
+Repositório do desafio da DIO]
+
+"Alguém está sentado na sombra hoje porque alguém plantou uma árvore há muito tempo"
